@@ -1,6 +1,6 @@
 import Taro, { Component, Config } from "@tarojs/taro";
 import { View, Text, Picker } from "@tarojs/components";
-// import "./index.css";
+import "./index.css";
 
 interface IState {
   startDate: string;
